@@ -11,3 +11,8 @@ Design Goals
 * Abstractions support genomic and metagenomic epidemiology
 * Integration with instruments, Metrichor cloud services
 * Streaming, live phylogenetics
+
+Architecture
+------------
+
+![Big N Architecture](big-n-application-components.png)
